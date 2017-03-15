@@ -1,0 +1,37 @@
+.dropdown-list-sidebar-preview, .dropdown-list-general-form {
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+}
+
+.dropdown-list-sidebar-preview {
+    width: 280px;
+    background-color: #1f1f1f;
+    padding: 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.dropdown-list-sidebar {
+    display: block;
+    text-align: center;
+}
+
+h1.dropdown-list-username, h2.dropdown-list-description {
+    color: #ffffff;
+}
+
+h2.dropdown-list-description {
+    font-size: 13px;
+    margin: 0 0 20px;
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    border-radius: 50%;
+}
